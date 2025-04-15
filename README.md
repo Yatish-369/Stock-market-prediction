@@ -241,3 +241,8 @@ Feel free to open issues or contribute with pull requests.
 
 📜 License
 This project is licensed under the MIT License.
+
+👥 Contributors
+1. Sai chithkala lella
+2. soubhagya swain
+3. rishi raj verma
